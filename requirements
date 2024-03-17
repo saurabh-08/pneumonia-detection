@@ -1,3 +1,0 @@
-!pip install torch==2.2.1
-!pip install torchvision==0.17.1
-!pip install matplotlib
